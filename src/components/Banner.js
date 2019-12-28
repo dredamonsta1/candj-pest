@@ -8,7 +8,7 @@ const Banner = props => (
       <header>
         <h2>C&J Pest Management</h2>
         <p>
-          Friendly knowledgeable service.
+          Friendly knowledgeable service experts.
       
         </p>
       </header>
