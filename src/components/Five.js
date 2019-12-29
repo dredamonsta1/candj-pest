@@ -6,7 +6,7 @@ const Five = props => (
     <Fade duration={2500}>
       <div className="container">
         <header>
-          <h2>Magna faucibus lorem diam</h2>
+          <h2>add your email</h2>
           <p>Ante metus praesent faucibus ante integer id accumsan eleifend</p>
         </header>
         <form method="post" action="#" className="cta">

@@ -1,5 +1,5 @@
 import React from 'react'
-import pic02 from '../assets/images/pic02.jpg'
+import mice from '../assets/images/mice.jpg'
 import { Link as ScrollLink } from 'react-scroll'
 import Fade from 'react-reveal/Fade'
 
@@ -7,10 +7,10 @@ const One = props => (
   <section
     id="one"
     className="spotlight style1 bottom inactive"
-    style={{ backgroundImage: `url(${pic02})` }}
+    style={{ backgroundImage: `url(${mice})` }}
   >
     <span className="image fit main">
-      <img src={pic02} alt="" />
+      <img src={mice} alt="" />
     </span>
     <Fade bottom big>
       <div className="content">
@@ -18,7 +18,7 @@ const One = props => (
           <div className="row">
             <div className="col-4 col-12-medium">
               <header>
-                <h2>Odio faucibus ipsum integer consequat</h2>
+                <h2>Mice</h2>
                 <p>
                   Nascetur eu nibh vestibulum amet gravida nascetur praesent
                 </p>
