@@ -16,8 +16,8 @@ class Home extends React.Component {
           htmlAttributes={{ lang: 'en' }}
           title="Gatsby Starter - Landed"
           meta={[
-            { name: 'description', content: 'Landed Gatsby Starter' },
-            { name: 'keywords', content: 'sample, something' },
+            { name: 'CnJ Pest', content: 'NY Pest Control' },
+            { name: 'Pest', content: 'mice, rat, bedbug, roach, termite' },
           ]}
         ></Helmet>
         <Banner />
