@@ -14,7 +14,7 @@ class Home extends React.Component {
       <Layout location="/">
         <Helmet
           htmlAttributes={{ lang: 'en' }}
-          title="Gatsby Starter - Landed"
+          title="CnJ Pest managment"
           meta={[
             { name: 'CnJ Pest', content: 'NY Pest Control' },
             { name: 'Pest', content: 'mice, rat, bedbug, roach, termite' },

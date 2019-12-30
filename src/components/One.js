@@ -18,9 +18,9 @@ const One = props => (
           <div className="row">
             <div className="col-4 col-12-medium">
               <header>
-                <h2>Mice</h2>
+                <h2>Rodent</h2>
                 <p>
-                  Nascetur eu nibh vestibulum amet gravida nascetur praesent
+                  These guys are tiny but coastly.
                 </p>
               </header>
             </div>
