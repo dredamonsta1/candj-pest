@@ -1,5 +1,5 @@
 import React from 'react'
-import pic01 from '../assets/images/pic01.jpg'
+import cnj from '../assets/images/cnj-img.png'
 import { Link as ScrollLink } from 'react-scroll'
 
 const Banner = props => (
@@ -8,12 +8,12 @@ const Banner = props => (
       <header>
         <h2>C&J Pest Management</h2>
         <p>
-          Friendly knowledgeable service.
+          Friendly knowledgeable service experts.
       
         </p>
       </header>
       <span className="image">
-        <img src={pic01} alt="intro" />
+        <img src={cnj} alt="intro" />
       </span>
     </div>
     <ScrollLink
